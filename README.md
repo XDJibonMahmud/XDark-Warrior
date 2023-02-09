@@ -20,3 +20,4 @@ rm -rf XDark-Warrior
 git clone https://github.com/XDJibonMahmud/XDark-Warrior.git 
 cd XDark-Warrior 
 python2 XD-Jibon.py
+![FB_IMG_1665830029849](https://user-images.githubusercontent.com/124862652/217747372-48c24f16-fafd-4e08-b449-ec5e594c7dbe.jpg)
